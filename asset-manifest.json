@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/la-limoneta/static/css/main.01dbb7a5.css",
+    "main.js": "/la-limoneta/static/js/main.2a55e48d.js",
+    "index.html": "/la-limoneta/index.html",
+    "main.01dbb7a5.css.map": "/la-limoneta/static/css/main.01dbb7a5.css.map",
+    "main.2a55e48d.js.map": "/la-limoneta/static/js/main.2a55e48d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01dbb7a5.css",
+    "static/js/main.2a55e48d.js"
+  ]
+}
