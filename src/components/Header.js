@@ -28,7 +28,7 @@ const Header = ({
           >
             {/* 1. Fondo del logo 'L' (antes degradado slate-700/800) */}
             <div className="w-10 h-10 bg-[#C5E952] rounded-xl flex items-center justify-center">
-              <span className="text-gray-900 font-bold text-lg">L</span>
+              <span className="text-gray-900 font-bold text-lg">🍋‍🟩</span>
             </div>
             <div className="hidden sm:block">
               <h1 className="text-2xl font-bold bg-gradient-to-r from-slate-800 to-slate-600 bg-clip-text text-transparent">

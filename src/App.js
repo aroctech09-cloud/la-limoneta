@@ -62,7 +62,7 @@ const App = () => {
             transition={{ duration: 0.6 }}
           >
             <h1 className="text-4xl md:text-5xl font-bold text-[#8EB33F] mb-4">
-              La Limoneta
+              La Limoneta 🍋‍🟩
             </h1>
             <p className="text-gray-600 text-lg font-medium max-w-2xl mx-auto">
               Descubre nuestra selección variada de productos de alta calidad
