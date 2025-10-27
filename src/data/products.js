@@ -668,15 +668,6 @@ export const products = [
   },
     {
     id: 71,
-    name: 'Torta Clásica',
-    description: 'Difusor ultrasónico con luces LED y temporizador automático',
-    price: 60,
-    image: 'https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400&h=300&fit=crop',
-    category: 'sabor',
-    stock: 28
-  },
-    {
-    id: 72,
     name: 'Flautitas en vaso',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 55,
@@ -685,7 +676,7 @@ export const products = [
     stock: 28
   },
   {
-    id: 73,
+    id: 72,
     name: 'Enchiladas Suizas',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 90,
@@ -694,7 +685,7 @@ export const products = [
     stock: 28
   },
    {
-    id: 74,
+    id: 73,
     name: 'Tacos de sabanitas (4)',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 90,
@@ -703,7 +694,7 @@ export const products = [
     stock: 28
   },
   {
-    id: 75,
+    id: 74,
     name: 'Pirata',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 60,
@@ -712,7 +703,7 @@ export const products = [
     stock: 28
   },
   {
-    id: 76,
+    id: 75,
     name: 'Pasta a la bolognesa',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 85,
@@ -721,7 +712,7 @@ export const products = [
     stock: 28
   },
    {
-    id: 77,
+    id: 76,
     name: 'Pasta Alfredo con pollo',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 85,
@@ -737,7 +728,7 @@ export const products = [
   //Nuevo */ 
 
   {
-    id: 78,
+    id: 77,
     name: 'Noodles con pollo Teriyaki',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 90,
@@ -746,7 +737,7 @@ export const products = [
     stock: 28
   },
   {
-    id: 79,
+    id: 78,
     name: 'Panini',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 65,
@@ -755,7 +746,7 @@ export const products = [
     stock: 28
   },
    {
-    id: 80,
+    id: 79,
     name: 'Ensalada de pollo',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 55,
@@ -764,7 +755,7 @@ export const products = [
     stock: 28
   },
    {
-    id: 81,
+    id: 80,
     name: 'Ensalada de coditos con atun',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 55,
@@ -773,7 +764,7 @@ export const products = [
     stock: 28
   },
     {
-    id: 82,
+    id: 81,
     name: 'Gorditas de maíz',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 18,
@@ -782,7 +773,7 @@ export const products = [
     stock: 28
   },
      {
-    id: 83,
+    id: 82,
     name: 'Hambuergesa de pollo',
     description: 'Difusor ultrasónico con luces LED y temporizador automático',
     price: 90,
