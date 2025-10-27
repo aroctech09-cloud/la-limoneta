@@ -97,7 +97,7 @@ const App = () => {
             <div className="w-10 h-10 bg-white rounded-xl flex items-center justify-center">
               <span className="text-slate-800 font-bold text-lg">L</span>
             </div>
-            <h3 className="text-2xl font-bold">La limoneta</h3>
+            <h3 className="text-2xl font-bold">La limoneta 🍋‍🟩</h3>
           </div>
           <p className="text-gray-300 mb-6 max-w-2xl mx-auto">
             Tu cafeteria de confianza con los mejores productos y el mejor servicio al cliente.
